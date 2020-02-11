@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:whitesmoke;
+    
+    
+}
+.part1{
+    height: 10px;
+    width: 30%;
+    background-color: blue;
+    border: 1px solid blue;
+    padding: 10px;
+}
+.part2{
+    height: 500px;
+    width: 30%;
+    background-color:white;
+    color: blue;
+    border: 1px solid blue;
+    padding: 10px;
+    
+    word-spacing: 10px;
+}
+input{
+    width: 10px;
+    border-radius: 2px;
+    border-color: darkblue;
+}
+span{
+    color: brown;
+    padding-left: 20px;
+}
+button{
+    color: blue;
+    border-style: ridge;
+    margin-bottom: 10px;
+    margin-left:60%;
+    
+}

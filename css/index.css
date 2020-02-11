@@ -1,0 +1,55 @@
+
+
+.container{
+background-color: tomato;
+color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* .row{
+    max-width: 100%;
+    height: 100vh;
+}
+.sidebar{
+background: darkblue;
+}
+.col-md-10{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: white;
+}
+.part1{
+    width: 35%;
+    height: 10px;
+    background-color:darkblue;
+}
+.part2{
+    width: 35%;
+    height: 600px;
+    background-color: whitesmoke;
+    border: 1px solid blue;
+}
+.navbar{
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: blue;
+    height: 40px;
+    color: white;
+} */
+ul{
+    list-style-type: none;
+    display: flex;
+}
